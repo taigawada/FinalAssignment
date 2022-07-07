@@ -1,0 +1,12 @@
+# pycache
+__pycache__/
+middleware/__pycache__/
+
+# dist
+dist/
+
+# build
+build/
+
+# vscode
+.vscode/
