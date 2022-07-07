@@ -3,7 +3,7 @@ __pycache__/
 middleware/__pycache__/
 
 # dist
-dist/taigawada/
+dist/
 
 # build
 build/
