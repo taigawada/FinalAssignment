@@ -1,2 +1,2 @@
 # FinalAssignment
-For プログラミング入門G
+プログラミング入門G
